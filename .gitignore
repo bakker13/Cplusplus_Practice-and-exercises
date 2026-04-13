@@ -96,6 +96,7 @@ cmake-build-*/
 # ===========================
 *.workspace
 *.project
+*.mk
 .codelite/
 build-Debug/
 build-Release/
